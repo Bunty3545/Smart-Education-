@@ -6,10 +6,9 @@ i_learn is a smart educational website that facilitates learning for students in
 - [Introduction](#introduction)
 - [Features](#features)
 - [Popular Topics](#popular-topics)
-- [Top Categories](#top-categories)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
