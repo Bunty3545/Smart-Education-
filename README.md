@@ -12,7 +12,7 @@ i_learn is a smart educational website that facilitates learning for students in
 
 ## Introduction
 
-i_learn is designed to provide students with a comprehensive platform for learning various subjects and categories. Whether you are a student looking to enhance your knowledge in ECE or an aspiring entrepreneur wanting to delve into business and marketing strategies, i_learn has something for everyone.
+i_learn is designed to provide students with a comprehensive platform for learning various subjects and categories. Whether you are a student looking to enhance your knowledge in various subject or an aspiring entrepreneur wanting to delve into business and marketing strategies, i_learn has something for everyone.
 
 ## Features
 
